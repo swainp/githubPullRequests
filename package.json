@@ -1,0 +1,25 @@
+{
+  "name": "github-open-pull-requests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swainp/githubPullRequests.git"
+  },
+  "author": "Peter Swain",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/swainp/githubPullRequests/issues"
+  },
+  "homepage": "https://github.com/swainp/githubPullRequests#readme"
+}
